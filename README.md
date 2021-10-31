@@ -1,4 +1,10 @@
 # Bolt Stats
+
+### DEPRECATED: now broken due to a change in the OnStar API. New development at https://github.com/ryanshiroma/boltstats2
+
+
+
+
 voltstats.net is a website that tracks vehicle data from myChevy using the chevrolet API. Example data points include odometer readings, battery level, and charge status.
 ![voltstats](voltstats.jpg)
 Sadly, voltstats is set to go offline on April 24th, 2021 which means that I will need to collect this data on my own.
